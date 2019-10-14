@@ -1,0 +1,5 @@
+D:\vs2010\编程\JSJH\2_8\2_8\bin\Debug\2_8.exe
+D:\vs2010\编程\JSJH\2_8\2_8\bin\Debug\2_8.pdb
+D:\vs2010\编程\JSJH\2_8\2_8\obj\x86\Debug\2_8.exe
+D:\vs2010\编程\JSJH\2_8\2_8\obj\x86\Debug\2_8.pdb
+D:\vs2010\编程\JSJH\2_8\2_8\obj\x86\Debug\2_8.csprojResolveAssemblyReference.cache
